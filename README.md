@@ -1,3 +1,7 @@
+
+
+
+
 # ⌨️ AutoTyper
 
 **AutoTyper** — утилита для автоматической эмуляции ручного ввода текста с клавиатуры на уровне системы (Windows API).
@@ -8,9 +12,7 @@
 
 ## 🎬 Демонстрация работы
 
-<!-- 👇 ВСТАВЬТЕ ССЫЛКУ НА ВАШ MP4 ФАЙЛ СЮДА 👇 -->
-https://github.com/user-attachments/assets/ВАШ_ФАЙЛ_ИЛИ_ССЫЛКА.mp4
-<!-- 👆 GitHub автоматически превратит эту ссылку в удобный видеоплеер 👆 -->
+[https://github.com/user-attachments/assets/ВАШ_ФАЙЛ_ИЛИ_ССЫЛКА.mp4](https://github.com/user-attachments/assets/e6d79c4c-469f-4f06-bd11-f0a032dd9d06)
 
 ---
 
